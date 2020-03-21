@@ -1,7 +1,5 @@
 ## BACKEND API WITH TYPESCRIPT
 
-![preview](./preview.png)
-
 ## Description
 API build with Node, Express, MongoDB Atlas and TypeScript
 
